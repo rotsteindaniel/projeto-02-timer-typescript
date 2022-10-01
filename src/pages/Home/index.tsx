@@ -37,9 +37,8 @@ export function Home() {
             min={5}
             max={60}
           />
+          <span>minutos.</span>
         </FormContainer>
-
-        <span>minutos.</span>
 
         <CountdownContainer>
           <span>0</span>
